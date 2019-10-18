@@ -1,0 +1,1 @@
+module.exports.checkAccesTokenMddleware = require('./check-acces-token.middleware');
